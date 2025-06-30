@@ -1,23 +1,18 @@
 # Yan Shcherbakov
 
-**Senior Software Engineer**  
-_I build systems that expect change without over-engineering it_
+**Coder**  
+_Everyone wants to be a 10x engineer, I just want to write 10x code_
 
 _Born 🇪🇪 | Raised 🇨🇦 | Living 🇺🇦_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-shcherbakov)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yan@example.com)
-
----
-
 **Things I've Built Recently:**
 
-- ⚡ **Redis-backed WebSocket inventory sync** preventing overselling across Shopify/BigCommerce with sub-second updates at 10K+ req/min
-- 🎵 **C++ DSP chain compiled to WebAssembly** for real-time audio effects processing with 50ms round-trip latency
-- 📊 **Multi-exchange crypto price aggregator** with efficient chart data deduplication using weighted algorithms and hash-based storage
-- 🛡️ **Chrome MV3 security extension** with real-time DOM analysis using pattern matching for PII detection and data leak prevention
-- 🤖 **GPT-4 powered Liquid template generator** that reads Shopify store context and generates sections from natural language descriptions
-- 📚 **RAG-powered documentation assistant** using Pinecone vector DB + LangChain to execute tasks from natural language without manual scripting
+- ⚡ **WebSocket inventory thing** that stops e-commerce sites from overselling stuff (Redis + 10K+ connections/min)
+- 🎵 **Audio effects processor** in C++ that I compiled to WebAssembly because browsers are weird (50ms latency for 100M+ users)
+- 📊 **Crypto price scraper** that doesn't store duplicate chart data like an idiot (70-90% storage savings)
+- 🛡️ **Browser extension** that spots when you're about to leak your SSN (Chrome MV3 + DOM pattern matching)
+- 🤖 **AI page builder** that reads your Shopify store and builds sections from plain English (GPT-4 + Liquid templates)
+- 📚 **Documentation helper** that actually does what you ask instead of making you write scripts (RAG + Pinecone + LangChain)
 
 ---
 
@@ -49,13 +44,3 @@ _Born 🇪🇪 | Raised 🇨🇦 | Living 🇺🇦_
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-
----
-
-## Current Interests
-
-**Performance Optimization** | **AI-Powered Automation** | **Real-time Systems** | **Blockchain Infrastructure**
-
-Currently exploring: Rust for systems programming, LLM integration patterns, and distributed system optimization.
-
----
