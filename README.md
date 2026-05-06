@@ -1,10 +1,5 @@
 # Yan Shcherbakov
 
-**Coder**  
-_Everyone wants to be a 10x engineer, I just want to write 10x code_
-
-_Born 🇪🇪 | Raised 🇨🇦 | Living 🇺🇦_
-
 **Things I've Built Recently:**
 
 - ⚡ **WebSocket inventory thing** that stops e-commerce sites from overselling stuff (Redis + 10K+ connections/min)
